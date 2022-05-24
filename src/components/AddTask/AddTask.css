@@ -1,0 +1,10 @@
+.add-task {
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+    cursor: pointer;
+    background: #9a9b9b;
+    padding: 15px;
+    border-radius: 10px;
+    color: #333;
+}

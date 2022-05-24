@@ -1,0 +1,29 @@
+.post__item {
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.post__elements {
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+}
+
+.post__textDone {
+    text-decoration: line-through;
+
+}
+
+.post__icon {
+    cursor: pointer;
+}
+
+.post__icon {
+    display: flex;
+    column-gap: 1rem;
+}
